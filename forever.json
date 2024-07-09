@@ -1,0 +1,8 @@
+
+{
+    "uid": "web-app",
+    "append": true,
+    "watch": true,
+    "script": "npm run start",
+    "sourceDir": "/home/jelastic/ROOT"
+}
